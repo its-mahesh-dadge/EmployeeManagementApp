@@ -20,3 +20,9 @@ Update Employee: Allows users to update information of existing employees.
 
 Delete Employee: Enables users to remove employee records from the database.
 
+//set up
+import databse in PhpMyAdmin
+open eclips IDE or any IDE where you can run Java Programs
+make shure the databse url is correct if not then check your port number
+and 
+Run the Main.java File
